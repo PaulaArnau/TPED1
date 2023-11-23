@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+
+}
+
+
+header {
+    height: 50px;
+    background-color: darkblue;
+}
+
+article {
+    width: 700px;
+    background: ;
+    margin-right: ;
+    margin-left: ;
+
+
+}
+
+img {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+h3 {
+    text-align:justify;
+    
+    left: 250px;
+   
+}
+
+p {
+    text-align:justify;
+    
+    left: 250 px;
+}
+
+div {
+    margin-right: 0%;
+    text-justify: left;
+    
+}
