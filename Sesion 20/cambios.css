@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
     background-color: lightgray;
 }
@@ -17,7 +34,7 @@ h1 {
 
 #pagina div {
     width: 30%;
-    height: 230px;
+    height: 270px;
     overflow: auto;
     background-color: white;
     margin: 10px;
@@ -29,52 +46,34 @@ h1 {
 }
 
 #caja1 {
-    font-family: mixta-didone, serif;
-    font-style: normal;
-    font-weight: 100;
+    font-family: 'Playfair Display', serif;
+ 
 }
-
 #caja2 {
-    font-family: brevia, sans-serif;
-    font-style: normal;
-    font-weight: 300;   
+    font-family: 'Edu QLD Beginner', cursive;
 }
 #caja3 {
-    font-family: bely-display, sans-serif;
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'Ballet', cursive;
 }
 
 #caja4 {
-    font-family: anisette-std, sans-serif;
-    font-style: normal;
-    font-weight: 300;
+    font-family: 'Luckiest Guy', cursive;
 }
 
 #caja5 {
-    font-family: canvas-script, sans-serif;
-    font-style: normal;
-    font-weight: 200;
+    font-family: 'Bad Script', cursive;
 }
 #caja6 {
-    font-family: superior-title, serif;
-    font-style: normal;
-    font-weight: 300;
+    font-family: 'Noto Sans Mono', monospace;
 }
 #caja7 {
-    font-family: lindsey-signature, sans-serif;
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'Wellfleet', monospace;
 }
 #caja8 {
-    font-family: greycliff-cf, sans-serif;
-    font-style: normal;
-    font-weight: 100;
+    font-family: 'Libre Franklin', sans-serif;
 }
 #caja9 {
-    font-family: gardez, sans-serif;
-    font-style: normal;
-    font-weight: 800;
+    font-family: 'Teko', sans-serif;
 }
 
 footer {
@@ -85,3 +84,4 @@ footer {
 footer a {
     color: red;
 }
+
