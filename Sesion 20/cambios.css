@@ -1,0 +1,87 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+#pagina {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#pagina div {
+    width: 30%;
+    height: 230px;
+    overflow: auto;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+}
+
+#caja1 {
+    font-family: mixta-didone, serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+#caja2 {
+    font-family: brevia, sans-serif;
+    font-style: normal;
+    font-weight: 300;   
+}
+#caja3 {
+    font-family: bely-display, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#caja4 {
+    font-family: anisette-std, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+#caja5 {
+    font-family: canvas-script, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+}
+#caja6 {
+    font-family: superior-title, serif;
+    font-style: normal;
+    font-weight: 300;
+}
+#caja7 {
+    font-family: lindsey-signature, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+#caja8 {
+    font-family: greycliff-cf, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+#caja9 {
+    font-family: gardez, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+
+footer {
+    text-align: center;
+    font-size: 2em;    
+}
+
+footer a {
+    color: red;
+}

@@ -13,7 +13,7 @@ main{
 header{
     width: 100%;
     height: 8vh;
-    /*background-color:darkolivegreen;*/
+    background-color:darkolivegreen;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
@@ -32,6 +32,7 @@ header{
     width: 45%;
     height: auto;
     background-color: darkgreen;
+
 }
 
 footer{
@@ -43,7 +44,8 @@ footer{
 
 .logo{
     width: 45%;
-    background-color: darkorange;
+    color:white;
+    background-color: darkgoldenrod;
     
 }
 
@@ -55,12 +57,39 @@ footer{
 .Listas{
     width: 15%;
     position align:right;
-    background-color: brown;
+    background-color: red;*/
     list-style-position:unset;
     
 }
 
 .Lista{
+    margin-left: auto;
+    color:white;
+    list-style: none;
+    cursor: pointer;
+    
+
+}
+
+.dosListas{
+    color:darkgoldenrod;
+    position align:right;
+    background-color: brown;
+    list-style-position:unset;
+
+
+}
+
+.Listas2{
+    width: 50%;
+    position align:right;
+    list-style-position:unset;
+    color:white;
+
+}
+    
+
+.Lista2{
     margin-left: auto;
     color:white;
     list-style: none;
